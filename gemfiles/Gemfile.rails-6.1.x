@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'bundler',        '> 2'
+gem 'rake'
+gem 'minitest',       '> 6'
+gem 'activesupport',  '> 6'
+gem 'activerecord',   '> 6'
+gem 'mongoid',        '> 7'
+gem 'bson_ext'
+gem 'coveralls'
+gem 'sqlite3'
